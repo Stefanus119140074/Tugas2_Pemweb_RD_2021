@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: green;
+    border: transparent ;
+}
+select{
+    width: 80%;
+}
+
+body{
+    margin-top: 40px ;
+    background-color: rgb(255, 127, 80, 0.5);
+}
